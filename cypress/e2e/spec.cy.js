@@ -16,9 +16,6 @@ context('Perform Test', () => {
 
         cy.visit('https://www.amazon.in')
 
-    
-
-
     })
 
 
